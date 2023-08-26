@@ -1,0 +1,5 @@
+buoy 635 523 752 682
+cargo_ship 511 373 703 471
+cargo_ship 808 373 1144 507
+cargo_ship 1568 368 1920 567
+special_ship 126 319 548 485

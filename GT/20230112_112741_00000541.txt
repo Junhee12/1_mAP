@@ -1,0 +1,4 @@
+passenger_ship 1172 278 1620 626
+passenger_ship 1079 448 1182 569
+boat 996 526 1060 557
+boat 960 521 1002 554

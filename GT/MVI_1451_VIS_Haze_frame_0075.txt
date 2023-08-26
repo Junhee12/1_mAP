@@ -1,0 +1,8 @@
+passenger_ship 384 546 869 857
+cargo_ship 1272 624 1640 710
+cargo_ship 1225 647 1289 702
+cargo_ship 1103 634 1248 701
+cargo_ship 144 654 373 715
+cargo_ship 604 651 826 708
+special_ship 1710 642 1906 707
+boat 43 688 100 714

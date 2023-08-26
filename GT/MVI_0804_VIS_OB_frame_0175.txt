@@ -1,0 +1,5 @@
+cargo_ship 1005 245 1059 273
+cargo_ship 1203 247 1252 278
+cargo_ship 521 232 589 261
+cargo_ship 37 137 530 258
+cargo_ship 0 205 78 242

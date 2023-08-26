@@ -1,0 +1,11 @@
+buoy 1066 638 1189 718
+special_ship 1493 8 1918 349
+cargo_ship 1171 109 1722 281
+cargo_ship 1080 204 1194 283
+boat 411 315 499 397
+boat 524 286 585 308
+cargo_ship 983 234 1060 282
+cargo_ship 323 99 1012 318
+cargo_ship 134 249 341 324
+cargo_ship 0 279 30 339
+cargo_ship 25 279 141 327

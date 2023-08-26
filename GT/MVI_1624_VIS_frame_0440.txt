@@ -1,0 +1,4 @@
+cargo_ship 272 506 378 559
+passenger_ship 994 532 1033 560
+cargo_ship 750 509 900 554
+cargo_ship 903 388 1403 601

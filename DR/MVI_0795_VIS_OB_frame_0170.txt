@@ -1,0 +1,6 @@
+passenger_ship 0.9967 562 580 678 627
+passenger_ship 0.9914 1386 624 1449 657
+passenger_ship 0.0026 576 589 655 617
+cargo_ship 0.0036 0 549 9 597
+cargo_ship 0.0017 0 484 17 607
+cargo_ship 0.0013 0 508 8 584

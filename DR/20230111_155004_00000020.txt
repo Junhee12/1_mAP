@@ -1,0 +1,12 @@
+cargo_ship 0.9949 717 519 772 536
+cargo_ship 0.0033 0 477 6 510
+cargo_ship 0.0022 1911 548 1920 575
+cargo_ship 0.0017 0 450 6 507
+cargo_ship 0.0014 710 512 770 544
+special_ship 0.0016 0 692 45 1061
+special_ship 0.0013 0 944 24 1080
+special_ship 0.0012 0 1032 14 1080
+special_ship 0.0011 0 831 22 990
+special_ship 0.0011 0 1059 23 1080
+special_ship 0.0010 1 943 136 1080
+boat 0.0010 0 527 12 567

@@ -1,0 +1,4 @@
+boat 1242 498 1291 559
+cargo_ship 1008 517 1181 558
+cargo_ship 294 405 413 565
+cargo_ship 562 477 652 565

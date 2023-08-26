@@ -1,0 +1,3 @@
+special_ship 1698 533 1726 551
+passenger_ship 1203 505 1302 549
+cargo_ship 792 496 945 542

@@ -1,0 +1,5 @@
+cargo_ship 103 556 273 684
+cargo_ship 743 617 851 682
+cargo_ship 972 519 1140 675
+cargo_ship 1459 525 1623 674
+cargo_ship 1370 528 1576 674

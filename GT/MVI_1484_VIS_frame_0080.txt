@@ -1,0 +1,4 @@
+cargo_ship 1819 74 1920 369
+cargo_ship 0 171 74 380
+cargo_ship 517 207 1008 359
+boat 1263 340 1586 430

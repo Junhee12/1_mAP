@@ -1,0 +1,2 @@
+cargo_ship 1674 523 1920 702
+cargo_ship 0 526 164 626

@@ -1,0 +1,5 @@
+cargo_ship 228 506 330 557
+passenger_ship 920 527 961 559
+boat 863 542 891 555
+cargo_ship 786 509 934 551
+cargo_ship 1327 386 1823 597

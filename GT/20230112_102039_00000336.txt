@@ -1,0 +1,3 @@
+passenger_ship 832 507 993 558
+cargo_ship 1487 534 1586 567
+cargo_ship 948 539 1000 556

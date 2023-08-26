@@ -1,0 +1,3 @@
+cargo_ship 1800 64 1920 361
+cargo_ship 0 180 66 386
+cargo_ship 46 242 367 358
